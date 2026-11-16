@@ -20,9 +20,9 @@
 
 A frontend developer from Iran who enjoys turning designs into fast, accessible web apps.
 
-- 🔭 Currently working on: **TODO**
-- 🌱 Currently learning: **TODO**
-- 🤝 Open to: **TODO (collaboration / jobs / freelance)**
+- 🔭 Currently working on: Kaveh logistics
+- 🌱 Currently learning: nest js
+- 🤝 Open to: collaboration / jobs / freelance
 - 💬 Ask me about: **React, JavaScript, Next.js**
 - 📫 Reach me: **Kevetsahedrakh@hotmail.com**
 
