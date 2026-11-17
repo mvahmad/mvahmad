@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="mailto:Kevetsahedrakh@hotmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  
   <a href="https://www.linkedin.com/in/ahmad-movahedi-31b986265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/mvahmad/portfolio"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=mvahmad&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
